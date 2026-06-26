@@ -27,6 +27,8 @@
 		"vite": "^8.1.0"
 	},
 	"dependencies": {
-		"better-sqlite3": "^12.11.1"
+		"better-sqlite3": "^12.11.1",
+		"vite": "^8.1.0",
+	"@sveltejs/kit": "^2.63.0"
 	}
 }
