@@ -2,6 +2,6 @@ import adapter from '@sveltejs/adapter-vercel';
 
 export default {
   kit: {
-    adapter: adapter()
+    adapter: adapter() // outputs to '.svelte-kit/output', NOT 'build'
   }
 };
