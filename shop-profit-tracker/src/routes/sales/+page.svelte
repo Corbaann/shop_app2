@@ -104,7 +104,7 @@
     background: #0070f3;
     color: white;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
     font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
