@@ -1,8 +1,7 @@
 <script>
   let { data, form } = $props();
-  let editingId = null;
+  let editingId = $state(null);   // ← exactly this
 </script>
-
 <div class="container">
   <h1>Products</h1>
 
