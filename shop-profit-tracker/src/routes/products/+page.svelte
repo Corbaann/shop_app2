@@ -16,7 +16,7 @@
         <p class="success">Product added!</p>
       {/if}
       <label>
-        Product Name
+        Product Names
         <input name="name" type="text" required placeholder="e.g. Cement Bag" />
       </label>
       <label>
@@ -92,7 +92,7 @@
 
 <style>
   .container {
-    max-width: 700px;
+    max-width: 701px;
     margin: 0 auto;
     padding: 1rem;
   }
